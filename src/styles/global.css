@@ -1,0 +1,14 @@
+/*$base-color: #ff0000;//Se crea una variable y se asigna un color base 
+$color: rgba(black, 0.88);//Se crea una variable y se asigna un color base y una transparencia 0.88
+
+body {
+  background-color: $base-color;//Se asigna un color de fondo 
+  color: $color;//Se asigna un color al texto
+
+  }
+*/
+
+  body {
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;
+  }
