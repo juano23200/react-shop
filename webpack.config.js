@@ -40,7 +40,7 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin');
        //filename: 'main.js' por el momento despues se puede asignarle otro nombre
        filename: "bundle.js",
 
-       publicPath: "/", //Se indica que se va a autilizar la raiz /
+       publicPath: "./", //Se indica que se va a autilizar la raiz /
      },
 
      //Se indica que se ejecute la aplicacion en modo desarrollo
